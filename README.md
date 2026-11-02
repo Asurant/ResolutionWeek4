@@ -3,9 +3,9 @@
 I made a flashcard API using FastAPI, Python, and SQLite. It allows users to register an API key and create, view, and delete flashcards. Currently, there is no frontend (It designed in ResolutionWeek5).
 
 ## Installation
-In order to install the package you will need to run ```pip install -i https://test.pypi.org/simple/ resolution-week4-Asurant``` in your CLI
-You have an installation issue involving packages, use this command:
-```pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://test.pypi.org/simple/ resolution-week4-Asurant```
+In order to install the package you will need to run ```pip install -i https://test.pypi.org/simple/ resolution-week4-Asurant``` in your CLI  
+You have an installation issue involving packages, use this command:  
+```pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://test.pypi.org/simple/ resolution-week4-Asurant```  
 
 ## Running The Project
 After you install the package you can start the API using:  
